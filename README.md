@@ -5,8 +5,6 @@
 
 ![Juan GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanCicotti2003&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCicotti2003&layout=compact)
-
 ## Tecnologias
 
 <div style="display: inline_block"><br/>
