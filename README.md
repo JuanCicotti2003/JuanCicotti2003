@@ -1,4 +1,4 @@
-### Olá! Eu sou o Juan Cicotti ✋
+### Olá, Dev! Eu sou o Juan Cicotti ✋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juancicotti/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511995959032)
